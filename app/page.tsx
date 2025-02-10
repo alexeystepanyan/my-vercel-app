@@ -3,6 +3,7 @@ export default function Home() {
     <div>
       <h1>Hello from My Vercel App!</h1>
       <p>This is a simple Next.js app deployed on Vercel.</p>
+      <p>This is the new line.</p>
     </div>
   );
 }
